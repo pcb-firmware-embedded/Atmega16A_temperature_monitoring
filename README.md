@@ -21,7 +21,7 @@ The project includes:
 
 The firmware was written in Embedded C using Atmel Studio.
 
-![Atmel Studio](assets/01-atmel-studio-code.png)
+![Atmel Studio](img/avr.png)
 
 ---
 
@@ -29,7 +29,7 @@ The firmware was written in Embedded C using Atmel Studio.
 
 The complete system was verified in Proteus before manufacturing the PCB.
 
-![Proteus Simulation](assets/04-proteus-simulation.png)
+![Proteus Simulation](img/proteus.png)
 
 ---
 
@@ -46,7 +46,7 @@ The schematic integrates:
 - LED
 - Power supply
 
-![KiCad Schematic](assets/02-kicad-schematic.png)
+![KiCad Schematic](img/kicad1.png)
 
 ---
 
@@ -54,7 +54,7 @@ The schematic integrates:
 
 The PCB was designed in KiCad with attention to routing, grounding and component placement.
 
-![PCB 3D](assets/03-kicad-pcb-3d.png)
+![PCB 3D](img/kicad2.png)
 
 ---
 
